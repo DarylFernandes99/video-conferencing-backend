@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-socketio
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+asyncpg
+greenlet
+redis
